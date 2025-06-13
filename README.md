@@ -26,7 +26,8 @@ $ cd plutus && pip3 install -r requirements.txt
 # Quick Start
 
 ```
-$ python3 plutus.py
+$ python plutus.py --spoof-datetime "2012-12-21 12:00:00" --use-deterministic
+  python plutus.py --spoof-datetime "2014-01-01 00:00:00" --use-deterministic
 ```
 
 # Proof Of Concept
