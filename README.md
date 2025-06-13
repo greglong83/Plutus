@@ -1,6 +1,7 @@
 # Plutus Bitcoin Brute Forcer
 
 A Bitcoin wallet collider that brute forces random wallet addresses
+ with Date/Time spoofing option
 
 # Like This Project? Give It A Star
 
@@ -17,7 +18,7 @@ Minimum <a href="#memory-consumption">RAM requirements</a>
 # Installation
 
 ```
-$ git clone https://github.com/Isaacdelly/Plutus.git plutus
+$ git clone https://github.com/greglong83/Plutus.git 
 
 $ cd plutus && pip3 install -r requirements.txt
 ```
@@ -25,7 +26,7 @@ $ cd plutus && pip3 install -r requirements.txt
 # Quick Start
 
 ```
-$ python3 plutus.py
+$ python3 time-spoof-plutus.py
 ```
 
 # Proof Of Concept
