@@ -26,7 +26,7 @@ $ cd plutus && pip3 install -r requirements.txt
 # Quick Start
 
 ```
-$ python3 time-spoof-plutus.py
+$ python3 plutus.py
 ```
 
 # Proof Of Concept
